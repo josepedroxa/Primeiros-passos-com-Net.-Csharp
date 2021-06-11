@@ -1,0 +1,5 @@
+C:\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+C:\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache

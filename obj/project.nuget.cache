@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "jdpDlRQzQEY+ivUHAR+4WULnjo+AHFSFc5gYOJUboQiBMOMlATvJGe5Vj/rXLnqJ6MSJatuU/Sk4QIBMwiM/0g==",
+  "success": false,
+  "projectFilePath": "c:\\Revisao\\Revisao.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 3.1.0)' for '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 3.1.0)' for '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 3.1.10)' for '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 3.1.15)' for '.NETCoreApp,Version=v3.1'.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
